@@ -1,9 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void Dian() {
-    
-}
+
 void ex1() {
     char character;
     int number;

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/dragomila/CLionProjects/ex:02
+# Install script for directory: /Users/dragomila/CLionProjects/UniversityTasks-CPP/UniversityTasks-CPP/VariablesAndDataType
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/dragomila/CLionProjects/ex:02/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/dragomila/CLionProjects/UniversityTasks-CPP/UniversityTasks-CPP/VariablesAndDataType/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

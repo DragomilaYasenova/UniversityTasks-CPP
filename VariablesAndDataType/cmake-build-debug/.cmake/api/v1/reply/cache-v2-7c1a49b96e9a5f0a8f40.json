@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/dragomila/CLionProjects/ex:02/cmake-build-debug"
+			"value" : "/Users/dragomila/CLionProjects/UniversityTasks-CPP/UniversityTasks-CPP/VariablesAndDataType/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/dragomila/CLionProjects/ex:02"
+			"value" : "/Users/dragomila/CLionProjects/UniversityTasks-CPP/UniversityTasks-CPP/VariablesAndDataType"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/dragomila/CLionProjects/ex:02/cmake-build-debug"
+			"value" : "/Users/dragomila/CLionProjects/UniversityTasks-CPP/UniversityTasks-CPP/VariablesAndDataType/cmake-build-debug"
 		},
 		{
 			"name" : "ex_02_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/dragomila/CLionProjects/ex:02"
+			"value" : "/Users/dragomila/CLionProjects/UniversityTasks-CPP/UniversityTasks-CPP/VariablesAndDataType"
 		}
 	],
 	"kind" : "cache",

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/dragomila/CLionProjects/ex:02/cmake-build-debug",
-		"source" : "/Users/dragomila/CLionProjects/ex:02"
+		"build" : "/Users/dragomila/CLionProjects/UniversityTasks-CPP/UniversityTasks-CPP/VariablesAndDataType/cmake-build-debug",
+		"source" : "/Users/dragomila/CLionProjects/UniversityTasks-CPP/UniversityTasks-CPP/VariablesAndDataType"
 	},
 	"version" : 
 	{
